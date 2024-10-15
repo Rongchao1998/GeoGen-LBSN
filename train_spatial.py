@@ -9,10 +9,6 @@ import shutil
 import argparse
 from utils.preprocess import POI_traj_Dataset
 
-
-# This code part from https://github.com/sunlin-ai/diffusion_tutorial
-
-
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 os.environ["CUDA_DEVICE_ORDER"] = "PCI_BUS_ID"
