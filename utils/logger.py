@@ -1,7 +1,3 @@
-"""
-Inspired by https://github.com/SebiSebi/friendlylog
-"""
-
 import logging
 import sys
 from copy import copy
