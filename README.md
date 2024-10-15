@@ -1,1 +1,1 @@
-# GeoGen-LBSN
+The code is built on DiffTraj, https://github.com/Yasoz/DiffTraj.git 
